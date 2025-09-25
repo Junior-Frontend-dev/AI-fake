@@ -1,6 +1,6 @@
 const { join } = require('path');
 const { app } = require('electron');
-
+//hello
 let db;
 
 async function initializeDatabase() {
